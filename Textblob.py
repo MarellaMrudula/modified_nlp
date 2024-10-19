@@ -1,5 +1,4 @@
-import nltk
-nltk.download('punkt', quiet=True)
+
 import pandas as pd  
 import numpy as np  
 import re  
